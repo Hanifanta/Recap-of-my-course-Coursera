@@ -52,8 +52,8 @@ The TensorFlow Data and Deployment specialization focused on practical aspects o
 
 ## Certificate
 <p align="center">
-  <img src="/assets/img/MLC.jpgg" alt="ML Certificate" style="height: 100px; width:100px;"/>
-  <img src="/assets/img/DLC.jpgg" alt="DL Certificate" style="height: 100px; width:100px;"/>
-  <img src="/assets/img/TDDC.jpgg" alt="TDD Certificate" style="height: 100px; width:100px;"/>
+  <img src="/assets/img/MLC.jpg" alt="ML Certificate" style="height: 350px; width:500px;"/>
+  <img src="/assets/img/DLC.jpg" alt="DL Certificate" style="height: 350px; width:500px;"/>
+  <img src="/assets/img/TDDC.jpg" alt="TDD Certificate" style="height: 350px; width:500px;"/>
 </p>
 
