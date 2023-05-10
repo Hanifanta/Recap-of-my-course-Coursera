@@ -1,4 +1,5 @@
-# Coursera Specialization Recap
+# Coursera Specialization Recap 
+[![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](http://coursera.com/)
 
 This repository contains a recap of my progress and learnings from the following Coursera specializations:
 
